@@ -1,0 +1,2 @@
+room_name,area_cad,perimeter_cad,area_m2,perimeter_m,cad_unit,method,evidence,status,notes
+招标部,45168106.11,31970.00,45.17,31.97,mm,AutoCAD AREA point-pick,截图或命令行结果,confirmed_by_user,用户示范测量
