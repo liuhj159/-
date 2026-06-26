@@ -1,0 +1,39 @@
+%SystemDrive%/
+.codex/
+.codex-log/
+*.tmp
+*.bak
+*.log
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+secrets/
+
+# Generated deliverables stay local unless explicitly archived.
+outputs/
+
+# Raw project drawings and customer/exported source files are read-only inputs.
+*.dwg
+*.dwf
+*.dwfx
+*.dxf
+*.pdf
+*.xlsx
+*.xls
+*.xlsm
+*.msi
+
+# Test fixtures may intentionally contain small sample source files.
+!tests/fixtures/**/*.dwg
+!tests/fixtures/**/*.dwf
+!tests/fixtures/**/*.dwfx
+!tests/fixtures/**/*.dxf
+!tests/fixtures/**/*.pdf
+!tests/fixtures/**/*.xlsx
+!tests/fixtures/**/*.xls
+!tests/fixtures/**/*.xlsm
+
+# Local third-party CAD converters are referenced, not vendored.
+tools/ODAFileConverter/

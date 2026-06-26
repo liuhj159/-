@@ -1,0 +1,7 @@
+interface:
+  display_name: "多联机工程咨询"
+  short_description: "组织多联机暖通工程的设计、工程量、成本报价和审计闭环"
+  default_prompt: "Use $vrf-engineering-consulting to organize this VRF HVAC project into design, quantity, cost, audit, and automation workstreams."
+policy:
+  allow_implicit_invocation: true
+

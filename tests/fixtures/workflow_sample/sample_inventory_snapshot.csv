@@ -1,0 +1,4 @@
+material_code,category,spec_model,stock_available,unit,unit_price,price_source,export_time
+MAT-CU-001,copper pipe,9.52,120,m,38.50,fixture,2026-06-24 00:00:00
+MAT-CU-002,copper pipe,15.88,80,m,66.00,fixture,2026-06-24 00:00:00
+MAT-INS-001,insulation,9.52,120,m,8.20,fixture,2026-06-24 00:00:00
