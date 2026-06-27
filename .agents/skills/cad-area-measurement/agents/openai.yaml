@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAD面积测量"
+  short_description: "按AutoCAD AREA示范整理房间名称、面积和证据。"
+  default_prompt: "按CAD AREA测量视频或截图，整理房间面积并更新负荷底稿。"
